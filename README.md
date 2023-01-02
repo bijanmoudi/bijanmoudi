@@ -1,21 +1,20 @@
-### Hi there! It's Bijan, the Engineer. 🌱
+### Technical lead with hands-on experience in Software Engineering and Data Science. 🌱
 
-<hr />
-
-<a href="https://www.linkedin.com/in/bmoudi/">
+<a href="https://www.linkedin.com/in/bmoudi/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:bmoudi@gmail.com">
+<a href="mailto:bmoudi@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br/>
-
-### About Me 🚀
-
+<hr />
+<br>
 <div align="center">
-  <a href="https://github.com/bijanmoudi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bijanmoudi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijanmoudi&layout=compact&langs_count=7&theme=gradient"/>
+  <a href="https://github.com/bijanmoudi" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijanmoudi&show_icons=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/bijanmoudi" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijanmoudi"/>
+  </a>
 </div>
 
