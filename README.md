@@ -1,13 +1,13 @@
 ### Technical lead with hands-on experience in Software Engineering and Data Science. 🧑‍💻
 
 <a href="mailto:bmoudi@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" title="Twitter" />
+  <img align="left" width="16px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" title="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/bmoudi/" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" />
+  <img align="left" width="16px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" />
 </a>
 <a href="mailto:bmoudi@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="E-mail" title="E-mail" />
+  <img align="left" width="16px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="E-mail" title="E-mail" />
 </a>
 
 <hr />
