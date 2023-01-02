@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there! It's Bijan, the Engineer. 🌱
 
-<!--
-**bijanmoudi/bijanmoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/bmoudi/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:bmoudi@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### About Me 🚀
+
+<div align="center">
+  <a href="https://github.com/bijanmoudi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bijanmoudi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijanmoudi&layout=compact&langs_count=7&theme=gradient"/>
+</div>
+
