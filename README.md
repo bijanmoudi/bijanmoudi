@@ -1,10 +1,10 @@
-### Technical lead with hands-on experience in Software Engineering and Data Science. 🌱
+### Technical lead with hands-on experience in Software Engineering and Data Science. 🧑‍💻
 
 <a href="https://www.linkedin.com/in/bmoudi/" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="16px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:bmoudi@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="16px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <hr />
