@@ -1,4 +1,4 @@
-### Technical lead with hands-on experience in Software Engineering and Data Science. 🧑‍💻
+### Technical lead with hands-on experience. 🧑‍💻
 <a href="https://twitter.com/bijanmoudi" target="_blank">
   <img align="left" width="16px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" title="Twitter" />
 </a>
